@@ -74,9 +74,9 @@ python -m bandit -r vulnerable_app.py -o bandit_output.txt -f txt
 
 ## Author
 
-**Wilson**
+**Abdul Rafae**
 Cybersecurity Intern — CodeAlpha
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/abdul-rafae-411aa8380/) | [GitHub](https://github.com/w4lterr)
 
 ---
 
